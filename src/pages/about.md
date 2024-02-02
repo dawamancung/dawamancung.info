@@ -3,34 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Assalamualaikum..doa terbaik setiap detik semoga seluruh mahluk berbahagia sehat dicukupkan rezekinya Aamiin. Salaml dari kami keluarga besar Partai Amanat Nasional dengan bangga memperkenalkan kader muda beprestasi kelahiran Adimulya Wanareja putra Bapak penghulu Ahmad Nurudin Alm dan Ibu guru Siti Aisyah yang ingin mengabdi kembali kepada masyarakat dengan mengamalkan ilmu dan pengalaman yang telah didapat selama ini.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="https://scontent-cgk1-1.xx.fbcdn.net/v/t39.30808-6/407633558_122146890698016787_8552420777771306149_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEZEJFqkiq9iFUbPMVSO7W1fwWxsYzxUqt_BbGxjPFSq3n7yRZ94ZkUvnXTN_3xHA0&_nc_ohc=Fry0Bn77pScAX8L3P8N&_nc_ht=scontent-cgk1-1.xx&oh=00_AfAX-GLpKT-WmXKp9nOfkXVFf84Qmc1HIZvbyqag8tZ5bA&oe=65C12054" class="sm:w-1/2 mx-auto sm:float-left sm:mr-7" alt="coding dev illustration">
 </div>
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Dengan kerendahan hati kami mohon doa dan dukungannya serta kebersamaan dalam mewujudkan kesetaraan pembangunan manusia dan bangunan infrastruktur antara desa dan kota sehingga anak balita tidak kurang gizi, remaja tidak kena narkoba, pemuda mempunyai ketrampilan kerja, bapak ibu bahagia. Bismillah..kami siap kerja!
